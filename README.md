@@ -18,6 +18,7 @@ com.github.wxpay.sdk.WXPay类下提供了对应的方法：
 |report|交易保障|
 |shortUrl|转换短链接|
 |authCodeToOpenid|授权码查询openid|
+|getSignKey|获取验签密钥接口|
 
 * 注意:
 * 证书文件不能放在web服务器虚拟目录，应放在有访问权限控制的目录中，防止被他人下载
